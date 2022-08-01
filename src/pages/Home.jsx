@@ -17,13 +17,14 @@ const Home = () => (
       <SobreMi />
     </div>
     <div>
-      <EstudiosC />
       <HobbiesC />
+      <EstudiosC />
       <CertificadoC />
+      <LaboralC />
     </div>
     <div>
       <IdiomasC />
-      <LaboralC />
+
       <ContactoC />
     </div>
   </div>
