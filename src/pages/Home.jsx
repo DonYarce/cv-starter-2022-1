@@ -25,8 +25,8 @@ const Home = () => (
     </div>
     <div>
       <IdiomasC />
-      <ContactoC />
       <ReferenciaC />
+      <ContactoC />
     </div>
   </div>
 );
