@@ -8,6 +8,7 @@ import CertificadoC from 'components/CertificadoC';
 import IdiomasC from 'components/IdiomasC';
 import HobbiesC from 'components/HobbiesC';
 import ContactoC from 'components/ContactoC';
+import ReferenciaC from 'components/ReferenciaC';
 
 const Home = () => (
   <div className='bg-gradient-to-tr from-stone-800 to-blue-900 min-h-screen md:grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:grid-rows-1 lg:divide-x-4 lg:divide-black'>
@@ -24,8 +25,8 @@ const Home = () => (
     </div>
     <div>
       <IdiomasC />
-
       <ContactoC />
+      <ReferenciaC />
     </div>
   </div>
 );
