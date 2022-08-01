@@ -3,7 +3,7 @@ import ImgTitulo from 'components/ImgTitulo';
 const PerfilTexto = () => (
   <div className='flex flex-col items-center p-4 w-full'>
     <ImgTitulo imagen='Etiqueta.png' titulo='Perfil' />
-    <div className='pt-5'>
+    <div className='pt-5 w-9/12'>
       <p className='text-white text-sm text-justify'>
         Soy un desarrollador radicado en Colombia, aunque tengo poco camino
         laboral, he tenido la oportunidad de trabajar con diferentes

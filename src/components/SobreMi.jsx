@@ -3,7 +3,7 @@ import ImgTitulo from 'components/ImgTitulo';
 const PerfilTexto = () => (
   <div className='flex flex-col items-center p-4 w-full'>
     <ImgTitulo imagen='Etiqueta.png' titulo='Sobre mí' />
-    <div className='pt-5'>
+    <div className='pt-5 w-9/12'>
       <p className='text-white text-sm text-justify'>
         Soy una persona con capacidad para tomar decisiones, soy alguien
         proactivo, listo para afrontar cualquier tarea que se me ponga, siendo
