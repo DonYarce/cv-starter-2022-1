@@ -1,5 +1,5 @@
 const ContactoLinks = () => (
-  <div className='grid grid-cols-3 p-2 mt-6'>
+  <div className='grid grid-cols-3 mt-3'>
     <a
       href='https://www.linkedin.com/in/alejandro-yarce-taborda-686a3b126/'
       target='blank'
